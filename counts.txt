@@ -1,0 +1,302 @@
+========================================================
+>>> Checking counts for ComplexSourceStreamlet
+>>> container_1_integer-source_1.log.0
+Number of Emitted tuples:    109149
+Number of Re-emitted tuples: 102
+Number of Acks:              109149
+
+========================================================
+>>> Checking counts for FormattedOutputStreamlet
+>>> container_1_supplier1_1.log.0
+Number of Emitted tuples:    233339
+Number of Re-emitted tuples: 0
+Number of Acks:              233339
+
+========================================================
+>>> Checking counts for ImpressionsAndClicksStreamlet
+>>> container_2_supplier1_2.log.0
+Number of Emitted tuples:    263100
+Number of Re-emitted tuples: 0
+Number of Acks:              263100
+
+>>> container_1_supplier2_1.log.0
+Number of Emitted tuples:    206375
+Number of Re-emitted tuples: 0
+Number of Acks:              206350
+
+========================================================
+>>> Checking counts for IntegerProcessingStreamlet
+>>> container_1_random-ints_5.log.0
+Number of Emitted tuples:    63802
+Number of Re-emitted tuples: 100
+Number of Acks:              63802
+
+>>> container_2_supplier1_4.log.0
+Number of Emitted tuples:    91
+Number of Re-emitted tuples: 15
+Number of Acks:              91
+
+========================================================
+>>> Checking counts for RepartitionerStreamlet
+>>> container_1_random-integer-source_13.log.0
+Number of Emitted tuples:    95269
+Number of Re-emitted tuples: 0
+Number of Acks:              95269
+
+>>> container_2_random-integer-source_14.log.0
+Number of Emitted tuples:    94978
+Number of Re-emitted tuples: 0
+Number of Acks:              94978
+
+========================================================
+>>> Checking counts for SimpleCloneStreamlet
+>>> container_1_supplier1_3.log.0
+Number of Emitted tuples:    135008
+Number of Re-emitted tuples: 0
+Number of Acks:              135008
+
+========================================================
+>>> Checking counts for SimpleConsumeStreamlet
+>>> container_1_supplier1_1.log.0
+Number of Emitted tuples:    225456
+Number of Re-emitted tuples: 0
+Number of Acks:              225456
+
+========================================================
+>>> Checking counts for SimpleFilterStreamlet
+>>> container_1_random-int-source_1.log.0
+Number of Emitted tuples:    120348
+Number of Re-emitted tuples: 100
+Number of Acks:              120348
+
+========================================================
+>>> Checking counts for SimpleFlatmapStreamlet
+>>> container_2_sentence-source_2.log.0
+Number of Emitted tuples:    76793
+Number of Re-emitted tuples: 100
+Number of Acks:              76793
+
+========================================================
+>>> Checking counts for SimpleJoinAndReduce
+>>> container_2_supplier1_2.log.0
+Number of Emitted tuples:    256645
+Number of Re-emitted tuples: 0
+Number of Acks:              256645
+
+>>> container_1_supplier2_1.log.0
+Number of Emitted tuples:    215360
+Number of Re-emitted tuples: 0
+Number of Acks:              215355
+
+========================================================
+>>> Checking counts for SimpleJoinStreamlet2
+>>> container_2_supplier1_2.log.0
+Number of Emitted tuples:    214880
+Number of Re-emitted tuples: 0
+Number of Acks:              214880
+
+>>> container_1_supplier2_1.log.0
+Number of Emitted tuples:    236720
+Number of Re-emitted tuples: 0
+Number of Acks:              236700
+
+========================================================
+>>> Checking counts for SimpleJoinStreamlet
+>>> container_2_supplier1_2.log.0
+Number of Emitted tuples:    220525
+Number of Re-emitted tuples: 0
+Number of Acks:              220525
+
+>>> container_1_supplier2_1.log.0
+Number of Emitted tuples:    266790
+Number of Re-emitted tuples: 0
+Number of Acks:              266785
+
+========================================================
+>>> Checking counts for SimpleLogStreamlet
+>>> container_1_supplier1_1.log.0
+Number of Emitted tuples:    181
+Number of Re-emitted tuples: 0
+Number of Acks:              181
+
+========================================================
+>>> Checking counts for SimpleMapStreamlet
+>>> container_2_ones-supplier_2.log.0
+Number of Emitted tuples:    91906
+Number of Re-emitted tuples: 100
+Number of Acks:              91906
+
+========================================================
+>>> Checking counts for SimpleReduceByKeyAndWindowStreamlet
+>>> container_1_supplier1_1.log.0
+Number of Emitted tuples:    118310
+Number of Re-emitted tuples: 0
+Number of Acks:              118300
+
+========================================================
+>>> Checking counts for SimpleRepartitionStreamlet2
+>>> container_1_random-ints_11.log.0
+Number of Emitted tuples:    42453
+Number of Re-emitted tuples: 0
+Number of Acks:              42453
+
+>>> container_2_random-ints_12.log.0
+Number of Emitted tuples:    43681
+Number of Re-emitted tuples: 0
+Number of Acks:              43681
+
+>>> container_1_random-ints_13.log.0
+Number of Emitted tuples:    41508
+Number of Re-emitted tuples: 0
+Number of Acks:              41508
+
+>>> container_2_supplier1_10.log.0
+Number of Emitted tuples:    91
+Number of Re-emitted tuples: 0
+Number of Acks:              91
+
+========================================================
+>>> Checking counts for SimpleRepartitionStreamlet
+>>> container_1_supplier1_5.log.0
+Number of Emitted tuples:    49850
+Number of Re-emitted tuples: 100
+Number of Acks:              49850
+
+>>> container_1_supplier1_3.log.0
+Number of Emitted tuples:    48809
+Number of Re-emitted tuples: 100
+Number of Acks:              48809
+
+>>> container_1_supplier1_7.log.0
+Number of Emitted tuples:    50641
+Number of Re-emitted tuples: 100
+Number of Acks:              50641
+
+>>> container_2_supplier1_4.log.0
+Number of Emitted tuples:    48846
+Number of Re-emitted tuples: 100
+Number of Acks:              48846
+
+>>> container_2_supplier1_6.log.0
+Number of Emitted tuples:    65973
+Number of Re-emitted tuples: 35
+Number of Acks:              65973
+
+========================================================
+>>> Checking counts for SimpleSinkStreamlet
+>>> container_1_supplier1_1.log.0
+Number of Emitted tuples:    32511
+Number of Re-emitted tuples: 0
+Number of Acks:              32511
+
+>>> container_1_supplier1_1.log.1
+Number of Emitted tuples:    319689
+Number of Re-emitted tuples: 0
+Number of Acks:              319600
+
+========================================================
+>>> Checking counts for SimpleTransformStreamlet
+>>> container_1_supplier1_1.log.0
+Number of Emitted tuples:    171557
+Number of Re-emitted tuples: 0
+Number of Acks:              171557
+
+========================================================
+>>> Checking counts for SimpleUnionStreamlet
+>>> container_2_supplier2_2.log.0
+Number of Emitted tuples:    168762
+Number of Re-emitted tuples: 0
+Number of Acks:              168762
+
+>>> container_1_supplier1_3.log.0
+Number of Emitted tuples:    169130
+Number of Re-emitted tuples: 0
+Number of Acks:              169130
+
+========================================================
+>>> Checking counts for SmartwatchStreamlet
+>>> container_2_incoming-watch-readings_4.log.0
+Number of Emitted tuples:    200
+Number of Re-emitted tuples: 200
+Number of Acks:              100
+
+========================================================
+>>> Checking counts for StreamletCloneStreamlet
+>>> container_2_supplier1_2.log.0
+Number of Emitted tuples:    84604
+Number of Re-emitted tuples: 100
+Number of Acks:              84604
+
+========================================================
+>>> Checking counts for TransformsStreamlet
+>>> container_1_random-int-suppliers_7.log.0
+Number of Emitted tuples:    83713
+Number of Re-emitted tuples: 0
+Number of Acks:              83713
+
+========================================================
+>>> Checking counts for WindowedWordCountStreamlet
+>>> container_1_random-sentences-source_1.log.0
+Number of Emitted tuples:    66238
+Number of Re-emitted tuples: 100
+Number of Acks:              66225
+
+========================================================
+>>> Checking counts for WireRequestsStreamlet
+>>> container_1_medium-branch-requests_7.log.0
+Number of Emitted tuples:    901
+Number of Re-emitted tuples: 0
+Number of Acks:              901
+
+>>> container_2_medium-branch-requests_8.log.0
+Number of Emitted tuples:    901
+Number of Re-emitted tuples: 0
+Number of Acks:              901
+
+>>> container_2_busy-branch-requests_26.log.0
+Number of Emitted tuples:    1791
+Number of Re-emitted tuples: 0
+Number of Acks:              1791
+
+>>> container_1_busy-branch-requests_27.log.0
+Number of Emitted tuples:    1792
+Number of Re-emitted tuples: 0
+Number of Acks:              1792
+
+>>> container_2_busy-branch-requests_28.log.0
+Number of Emitted tuples:    1791
+Number of Re-emitted tuples: 0
+Number of Acks:              1791
+
+>>> container_2_quiet-branch-requests_6.log.0
+Number of Emitted tuples:    451
+Number of Re-emitted tuples: 0
+Number of Acks:              451
+
+>>> container_1_busy-branch-requests_25.log.0
+Number of Emitted tuples:    1792
+Number of Re-emitted tuples: 0
+Number of Acks:              1792
+
+========================================================
+>>> Checking counts for WordCountStreamlet
+>>> container_2_supplier2_2.log.0
+Number of Emitted tuples:    18769
+Number of Re-emitted tuples: 199
+Number of Acks:              18763
+
+>>> container_1_supplier1_3.log.0
+Number of Emitted tuples:    18891
+Number of Re-emitted tuples: 199
+Number of Acks:              18891
+
+========================================================
+>>> Checking counts for FilesystemSinkStreamlet
+>>> container_1_incoming-integers_1.log.0
+Number of Emitted tuples:    325200
+Number of Re-emitted tuples: 0
+Number of Acks:              325200
+
+
+
+

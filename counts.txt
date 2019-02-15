@@ -216,9 +216,9 @@ Number of Acks:              169130
 ========================================================
 >>> Checking counts for SmartwatchStreamlet
 >>> container_2_incoming-watch-readings_4.log.0
-Number of Emitted tuples:    200
-Number of Re-emitted tuples: 200
-Number of Acks:              100
+Number of Emitted tuples:    490
+Number of Re-emitted tuples: 2
+Number of Acks:              488
 
 ========================================================
 >>> Checking counts for StreamletCloneStreamlet
